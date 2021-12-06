@@ -1,0 +1,2 @@
+https://google.com/maps?q=0,0
+npm bad-words
